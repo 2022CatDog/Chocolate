@@ -1,11 +1,16 @@
-# About chocolate_test_original.csv: 
+### chocolate.csv and chocolate_taste_dataset.csv
+  The original datasets downloaded from https://www.kaggle.com/datasets/soroushghaderi/chocolate-bar-2020
+
+
+
+### About chocolate_test_original.csv: 
 
 Table scraped on date 5/24/22 from http://flavorsofcacao.com/chocolate_database.html
 using code in https://www.kaggle.com/code/andrewmvd/chocolate-ratings-crawler
 
 
 
-# About chocolate_test_edited.csv:
+### About chocolate_test_edited.csv:
 
 An edited version based on chocolate_test_original.csv
 
@@ -35,7 +40,7 @@ An edited version based on chocolate_test_original.csv
 
 
 
-# About chocolate_edited_taste_cols.csv:
+### About chocolate_edited_taste_cols.csv:
 
 An edited data file from the original data set chocolate.csv downloaded from Kaggle
 
