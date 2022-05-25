@@ -47,7 +47,7 @@ An edited data file from the original data set chocolate.csv downloaded from Kag
 - Details:
   - Combined the first_taste, second_taste, third_taste and fourth_taste columns into a new column called "taste". 
     Each cell is a string in which the tastes are separated by ", " -- which is consistent with the test set column "taste"
-  - Deleted the unuseful columns:
+  - Deleted the useless columns:
     - 'Unnamed: 0' - same as the indices of the dataframe
     - 'beans' - all have beans contained
     - 'first_taste', 'second_taste', 'third_taste', 'fourth_taste' - the test set does not have these distingished, 
