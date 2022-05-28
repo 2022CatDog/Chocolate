@@ -40,6 +40,27 @@ An edited version based on chocolate_test_original.csv
 
 
 
+### chocolate_test_edited1.csv
+
+Based on chocolate_test_edited.csv
+
+Manually adjusted the format in the taste column to make it consistent (e.g. some missing spaces in between tastes)
+
+
+
+### chocolate_test_edited2.csv:
+
+Based on chocolate_test_edited1.csv
+
+- Changes made:
+  - In column company_location: changed U.S.A. to U.S.A and U.K. to U.k. - to be consistent with the training set
+  - Made the 6 ingredient columns into categorical variables 0 and 1
+    - 'cocoa_butter', 'vanilla', 'lecithin', 'salt', 'sugar', 'sweetener_without_sugar'
+  - Added 18 new categorical columns for the 18 most frequently appeared tastes
+    - Frequency in order: 'nutty', 'sweet', 'cocoa', 'roasty', 'creamy', 'earthy', 'sandy', 'fatty', 'floral', 'intense', 'spicy', 'sour', 'molasses', 'woody', 'vanilla_taste', 'sticky', 'fruit', 'smokey'
+
+
+
 ### About chocolate_edited_taste_cols.csv:
 
 An edited data file from the original data set chocolate.csv downloaded from Kaggle
@@ -53,3 +74,13 @@ An edited data file from the original data set chocolate.csv downloaded from Kag
     - 'first_taste', 'second_taste', 'third_taste', 'fourth_taste' - the test set does not have these distingished, 
                                                                      but only one string of tastes is given for each chocolate
 
+
+### chocolate_train_edited2.csv:
+
+Based on chocolate_edited_taste_cols.csv
+
+ - Changes made:
+   - Made the 6 ingredient columns into categorical variables 0 and 1
+     - 'cocoa_butter', 'vanilla', 'lecithin', 'salt', 'sugar', 'sweetener_without_sugar'
+   - Added 18 new categorical columns for the 18 most frequently appeared tastes
+     - Frequency in order: 'nutty', 'sweet', 'cocoa', 'roasty', 'creamy', 'earthy', 'sandy', 'fatty', 'floral', 'intense', 'spicy', 'sour', 'molasses', 'woody', 'vanilla_taste', 'sticky', 'fruit', 'smokey'
