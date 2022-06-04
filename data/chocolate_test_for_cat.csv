@@ -1,0 +1,224 @@
+,ref,company,company_location,review_date,country_of_bean_origin,specific_bean_origin_or_bar_name,cocoa_percent,rating,counts_of_ingredients,taste,cocoa_butter,vanilla_have_not_vanilla,vanilla,vanilla_have_vanilla,lecithin,salt,sugar,sweetener_without_sugar,nutty,sweet,cocoa,roasty,creamy,earthy,sandy,fatty,floral,intense,spicy,sour,molasses,woody,vanilla_taste,sticky,fruit,smokey,company_continent,origin_continent
+0,2542,5150,United States,2021,Fiji,"Matasawalevu, batch 1",68.0,3.0,3,"chewy, off, rubbery",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,OC
+1,2546,5150,United States,2021,Venezuela,"Sur del Lago, batch 1",72.0,3.0,3,"fatty, earthy, moss, nutty, chalky",1,1,0,0,0,0,1,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,NA,SA
+2,2546,5150,United States,2021,Uganda,"Semuliki Forest, batch 1",80.0,3.25,3,"mildly bitter, basic cocoa, fatty",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NA,AF
+3,2542,5150,United States,2021,India,"Anamalai, batch 1",68.0,3.5,3,"milk brownie, macadamia, chewy",1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,AS
+4,2648,A. Morin,France,2021,Mexico,La Joya,70.0,4.0,4,"light color, fruit, yogurt",1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,EU,NA
+5,2586,Animas,United States,2021,Belize,"Maya Mountain, batch 39",75.0,3.0,2,"burnt toast, cherry",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+6,2586,Animas,United States,2021,Guatemala,"Alta Verapaz, Cahabon & Lanquin regions, b. 4243",75.0,3.25,2,"orange citrus, harsh earthiness",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+7,2562,Aruntam,Italy,2021,India,"Idukki Kerala, lot IN728221",72.0,3.25,4,"cinamon, nutmeg, fatty",1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,EU,AS
+8,2562,Aruntam,Italy,2021,Madagascar,"Bejofo E., Akesson, lot MA72820",72.0,3.25,4,"strawberry, sour",1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,EU,AF
+9,2566,Aruntam,Italy,2021,Tanzania,"Kokoa Kamili, lot TZ72199",72.0,3.5,4,"caramel, sour milk",1,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,EU,AF
+10,2672,Avanaa,Canada,2021,Colombia,Tumaco,70.0,2.5,2,"chemical, spice, earthy",0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,NA,SA
+11,2672,Avanaa,Canada,2021,Dominican Republic,Zorzal,70.0,3.0,2,"intense, sour tart plum, rubber",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,NA
+12,2648,Belvie,Vietnam,2021,Vietnam,"Ben Tre, batch 70301",70.0,3.75,3,dominate cocoa notes,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AS,AS
+13,2574,Black Mountain,United States,2021,Dominican Republic,"""Cocoa Nibs"", Hispaniola w/ nibs",70.0,3.75,4,"bright fruit, crisp nibs, cocoa",1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+14,2590,Black Sheep,United States,2021,Colombia,"Sierra Nevada, batch 92",72.0,3.25,3,"burnt caramel, cocoa, floral",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,SA
+15,2590,Black Sheep,United States,2021,Belize,"Maya Mountain, batch 98",72.0,3.25,3,honey with subtle tobacco,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+16,2554,Bonnat,France,2021,Nicaragua,"El Castillero, Indio Maiz",75.0,3.75,3,"bold, woody, nut, roasty, creamy",1,1,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,EU,NA
+17,2542,Brasstown,United States,2021,Tanzania,Kokoa Kamili,62.0,3.0,3,"very sweet, melon, caramel",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,AF
+18,2510,Cacao Santa Fe (Art of Chocolate),United States,2020,Dominican Republic,"Zorzal Reserve, Hispaniola, batch 239",72.0,2.75,4,"cocoa butter dominates, cocoa",1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+19,2510,Cacao Santa Fe (Art of Chocolate),United States,2020,Peru,Ucayali,72.0,2.75,4,"intense, sweet, vanilla dominate",1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,SA
+20,2510,Cacao Santa Fe (Art of Chocolate),United States,2020,Ecuador,Costa Esmeraldas,72.0,3.0,4,"cocoa base, sweet, earthy",1,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+21,2610,Cacaosuyo,Peru,2021,Peru,Chuncho-Cuzco,70.0,3.5,2,"herbal, cocoa tea",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SA,SA
+22,2614,Cacaosuyo,Peru,2021,Peru,"Lakuna, Amazonas, silvestre",70.0,3.5,2,"complex, floral, spicy, fruit",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,SA,SA
+23,2614,Cacaosuyo,Peru,2021,Peru,Cuzco,80.0,3.5,2,"smooth, slow, mild grape",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SA,SA
+24,2610,Cacaosuyo,Peru,2021,Peru,Piura Select,70.0,4.0,2,chocolate and grapes,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SA,SA
+25,2558,Caofiori,Colombia,2021,Colombia,Arauca,70.0,3.25,4,"spice, oats, nutty, fatty",1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,SA,SA
+26,2558,Caofiori,Colombia,2021,Colombia,Tumaco,70.0,3.25,4,"spice, honey, fatty",1,1,0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,SA,SA
+27,2558,Caofiori,Colombia,2021,Colombia,Choco,70.0,3.5,4,"single note of cocoa, fatty",1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SA,SA
+28,2558,Caofiori,Colombia,2021,Colombia,Meta,70.0,3.75,4,"cocoa base, fruit, creamy",1,1,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,SA,SA
+29,2626,CAR Artisan,United States,2021,Nicaragua,"La Colonia, batch 5",70.0,3.0,3,"burnt blueberry, off",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+30,2626,CAR Artisan,United States,2021,Tanzania,"Kokoa Kamili, batch 9",70.0,3.25,3,"unusually tart, nutty",1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+31,2630,CAR Artisan,United States,2021,Peru,"Ucayali, batch 12",70.0,3.25,3,"intense, cooked black licorice",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,SA
+32,2630,CAR Artisan,United States,2021,Mexico,"Soconusco, batch 2",70.0,3.25,3,"strong tobacco, grassy",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+33,2554,Castronovo,United States,2021,Peru,"Valle de Los Rios, batch 990",70.0,4.0,3,"complex, strawberry, floral",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,NA,SA
+34,2688,Castronovo,United States,2021,Venezuela,"Chuao, batch 1089",72.0,4.0,3,"mild strawberry, cocoa, acidic",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,SA
+35,2672,Chaleur B,Canada,2021,Madagascar,"Ambanja, Sambirano Valley",70.0,3.0,3,"cherry, sour milk, brownie",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,NA,AF
+36,2676,Chaleur B,Canada,2021,Belize,Maya Mountain,70.0,3.0,3,"vanilla, sour, bubblegum",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,NA,NA
+37,2676,Chaleur B,Canada,2021,Peru,"Maranon, nano-lot #709, bar# 371",72.0,3.25,3,"dominate grape, plastic off note",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+38,2668,Chequessett,United States,2021,Colombia,Tumaco Narino,83.0,3.25,3,"early fruit, earthy, alcohol",1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+39,2668,Chequessett,United States,2021,Dominican Republic,"Dominican Republic, ""Provincetown Dark""",69.0,3.25,3,"dried fruit, banana, sweet, vanilla",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,NA,NA
+40,2700,Chocolate Tree,United Kingdom,2021,Venezuela,Chuao,70.0,2.75,3,"nutty, mild dried fruit, sandy, off",1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,EU,SA
+41,2594,Chocotenango,United States,2021,Guatemala,"Chivite, Cahabon River",70.0,3.25,2,"melon, mild spice, cocoa",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+42,2598,Chocotenango,United States,2021,Dominican Republic,Duarte,73.0,3.25,2,"hazelnut, bold, strong roast",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,NA
+43,2594,Chocotenango,United States,2021,Belize,"Maya Mountain, Toledo",70.0,3.5,2,full flavor w/ dominant roast,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+44,2534,Chokola,United States,2020,Guatemala,"Verapaz, 2017 harvest, Batch 14",70.0,3.5,2,"rich, raisiny, molasses",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,NA,NA
+45,2514,Chokola,United States,2020,Venezuela,"Chuao w/ nibs, 2017-2018 harvest, Batch 9",75.0,3.75,2,"mild lemon, cocoa, crisp nibs",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+46,2534,Chokola,United States,2020,Belize,"Maya Mountain, 2017 harvest, Batch 11",70.0,3.75,2,"fruity, honey, cocoa, roasty",0,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+47,2514,Chokola,United States,2020,Madagascar,"Bejofo, 2019 H., Batch 20",67.0,4.0,2,"cherry, perfectly balanced roast",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,AF
+48,2638,Chokola,United States,2021,Tanzania,"Kokoa Kamili, harvest 2018",75.0,3.5,2,"roasty, cocoa, sandy, coffee AT",0,1,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+49,2638,Chokola,United States,2021,Bolivia,"Wild Tranquilidad, harvest 2018, batch 9",75.0,3.75,2,"hint of lemon, classic brownie",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+50,2630,Cleveland Chocolate Company,United States,2021,Dominican Republic,Oko Caribe,70.0,3.5,3,"spice, earthy, honey, sour",1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,NA,NA
+51,2630,Cleveland Chocolate Company,United States,2021,Haiti,Pisa,79.0,3.5,3,"blueberry, sweet edge, pure",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+52,2606,Cocoa Forge,United States,2021,Peru,"Maranon, batch 244PEmaD",68.0,3.0,3,"molasses, dried fruit, tart, off",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,NA,SA
+53,2606,Cocoa Forge,United States,2021,Madagascar,"Sambirano, batch 236MAsaD77",77.0,3.25,2,"Rich cocoa, tart, papery",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+54,2606,Cocoa Forge,United States,2021,Colombia,"Tumaco, batch 227COtm",70.0,3.25,3,"sweet, cocoa, cardboard off",1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+55,2688,Conjure,United States,2021,Philippines,Malah Na Bulong,70.0,2.5,3,"cocoa, grass, off notes",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AS
+56,2688,Conjure,United States,2021,Ivory Coast,"Ivory Coast, Rainforest Alliance, batch 7",70.0,2.5,3,"off, harsh, dirty, chemical",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Unknown
+57,2684,Conjure,United States,2021,Peru,Ucayali,68.0,3.25,3,"spicy, vanilla, sweet, cocoa",1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,NA,SA
+58,2688,Conjure,United States,2021,Tanzania,Kokoa Kamili,75.0,3.5,3,"cocoa, mild fruit",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,AF
+59,2502,Crow and Moss,United States,2020,Ecuador,"Camino Verde, batch 84",70.0,3.25,2,"bold, black tea, floral, banana",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,NA,SA
+60,2656,Crow and Moss,United States,2021,India,"Anamalai, Pollachi City, batch 148",70.0,3.75,2,"sticky, cocoa, honey",0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,AS
+61,2526,Cultura,United States,2020,Guatemala,"Lachua, Cacao Verapaz, 2018 harvest, batch 20092",70.0,3.25,3,"sandy, sweet, basic cocoa base",1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+62,2522,Cultura,United States,2020,Haiti,"Pisa, 2020 harvest, batch 20111",70.0,3.5,3,rich malt,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+63,2522,Cultura,United States,2020,Belize,"Maya Mountain, 2020 harvest, batch 20107",75.0,3.5,3,"raspberry, cocoa",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+64,2526,Cultura,United States,2020,Mexico,"Tabasco, Agrofloresta Cacao, 2020 h., batch 20098",70.0,3.5,3,"raisins, honey, molassses",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,NA,NA
+65,2622,Cuna de Piedra,Mexico,2021,Mexico,"Comalcalco, Tabasco, b. 2370003, 2019 harvest",73.0,3.75,2,"deep cocoa, fruit, melon",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+66,2574,Dancing Lion,United States,2021,Puerto Rico,"Puerto Rico, collab w/ USDA (Juan Echevarria)",68.0,2.5,4,"harsh woody/green, cocoa base",1,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+67,2574,Dancing Lion,United States,2021,India,Anamalai,72.0,3.0,4,"fresh fruit, sour cherry, roasty",1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AS
+68,2574,Dancing Lion,United States,2021,Peru,"Ucayali, collab w/ USAID & Alanzo Cacao",72.0,3.5,4,"raisiny, slight anise, roasty",1,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+69,2602,Dandelion,United States,2021,Guatemala,"Cahabon, Cacao Verapaz, ADIOESMAC, batch 1",70.0,2.75,2,"pungent, woody, choco pudding",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,NA,NA
+70,2602,Dandelion,United States,2021,India,"Anamalai, 2018 H., batch 1",70.0,2.75,2,"pungent, sour, tart, intense",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,NA,AS
+71,2550,Dandelion,United States,2021,Peru,"Piura Blanco, 2015 h.,Norandino Coop, batch 1",70.0,3.25,2,"grape, pungent",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,SA
+72,2602,Dandelion,United States,2021,India,"Anamalai, 2019 H., batch 1, nutmeg fermentation",70.0,3.25,2,"orange soda, sour",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,AS
+73,2546,Dandelion,United States,2021,Tanzania,"Kokoa Kamili, 2017 h., batch 2",70.0,3.5,2,"dairy, honey, cocoa",0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+74,2550,Dandelion,United States,2021,Dominican Republic,"Zorzal Estate, 2016 h., batch 1",70.0,3.5,2,"faint fruit, basic fudgey",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+75,2546,Dandelion,United States,2021,Brazil,"Vale Potumuju, 2019 h., batch 1",70.0,4.0,2,distinct choco and graham,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+76,2550,Dandelion (Japan),United States,2021,Dominican Republic,"Zorzal Estate, 2017 h.",70.0,3.0,2,"light caramel, sl. dry, earthy",0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+77,2554,Dick Taylor,United States,2021,Jamaica,"Bachelor's Hall, batch 20240",75.0,3.75,2,"sl. bitter, black licorice, dried fig",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+78,2656,Dick Taylor,United States,2021,Mexico,"Soconusco, Rayen Cacao Co-op, batch 21154",72.0,4.0,2,"dried fruit, fig, astringent, sticky",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,NA,NA
+79,2696,Dormouse,United Kingdom,2021,Belize,"Trio Reserve, 2020 h. batch D002",78.0,3.25,3,molasses notes dominate,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EU,NA
+80,2648,Duffy's,United Kingdom,2021,Nicaragua,"Juno, batch 201006",70.0,3.5,4,"fruit, holiday spice",1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,EU,NA
+81,2534,El Buen,United States,2020,Madagascar,"Akessons, Sambirano Valley",70.0,3.0,2,"molasses, red fruit, astringent",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,NA,AF
+82,2534,El Buen,United States,2020,Colombia,Tumaco,70.0,3.0,2,"cocoa, spice, alcohol, dirty",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,SA
+83,2570,Escazu,United States,2021,Blend,"""Roasted Cocoa Nibs"", Latin America Blend, b.060321",65.0,3.0,3,"sweet, too few nibs, cocoa",1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Unknown
+84,2570,Escazu,United States,2021,Colombia,"Arhuacos, Sierra Nevada, batch 060221",70.0,3.5,2,"mild licorice, late mocha",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+85,2664,Ethereal,United States,2021,Uganda,Uganda,70.0,3.0,3,"sandy, basic cocoa, sweet",1,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+86,2712,Fossa,Singapore,2021,Indonesia,"Burang, Popayato-Paquat microlot, Goranulo Province",72.0,3.5,2,"dried fruit (fig), black licorice",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,AS,AS
+87,2712,Fossa,Singapore,2021,Malaysia,"Semai Community, Kamping Long B, Pahang",72.0,3.5,2,"dairy, cocoa, mild sour",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,AS,AS
+88,2708,Fresco,United States,2021,Peru,"Lamas, Oro Verde, #280, MR 0C, batch 21-457",74.0,3.0,3,"licorice, caramel, floral, dirty",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,SA
+89,2642,Fresco,United States,2021,Ghana,"ABOCFA, #260, LR-SC, batch 20-335",68.0,3.25,3,"coconut, high astringency",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,AF
+90,2708,Fresco,United States,2021,Peru,"Lamas, Oro Verde, #282, DR MC, batch 21-451",74.0,3.25,3,"spicey, herbal, ripe, sl. burnt",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+91,2642,Fresco,United States,2021,Ghana,"ABOCFA, #261, DR-MC, batch 21-448",68.0,3.5,3,"fudgey, spicey, nutty",1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+92,2644,Fresco,United States,2021,Nicaragua,"O'Payo Profundo, Waslala, MR-MC, #271, b. 21-431",70.0,3.5,3,"oily, black licorice, spicey",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NA,NA
+93,2704,Fresco,United States,2021,Madagascar,"Sambirano V., #290, MR MC, batch 21-454",70.0,3.5,3,"raspberry, mild sour, cocoa",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,NA,AF
+94,2644,Fresco,United States,2021,Nicaragua,"O'Payo Profundo, Waslala, DR-LC, #271, b. 21-433",70.0,3.75,3,"rich chocolate, late spice notes",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+95,2644,Fresco,United States,2021,Venezuela,"Chuao Village, BR-SC, batch 21-437",68.0,4.0,3,"robust cocoa, dried cranberry",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+96,2550,Fruition,United States,2021,Dominican Republic,"Los Bejucos, batch 1",77.0,3.25,2,"sl. bitter up front, fatty, intense",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,NA,NA
+97,2554,Fruition,United States,2021,Dominican Republic,"Hispaniola, Dom. Rep. blend, batch 50",68.0,3.75,4,"dried fruit, cocoa base, fatty",1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,NA,NA
+98,2664,Fruition,United States,2021,Peru,"Ucayali, batch 1",72.0,3.75,3,"black licorice, tangy",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+99,2602,Goodnow Farms,United States,2021,Ecuador,"Costa Esmeraldas, Salazar Farm",70.0,3.75,3,"banana, cocoa, late floral",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,SA
+100,2642,Gotham,United States,2021,India,"Idukki Hills, ""Adventurous""",70.0,3.0,2,"sweet, dominate cocoa, spice",0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,AS
+101,2642,Gotham,United States,2021,Bolivia,"Alto Beni, ""Wild""",70.0,3.25,2,spice/herb dominate cocoa base,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+102,2644,Gotham,United States,2021,Dominican Republic,Oko Caribe,70.0,3.25,2,"sandy, sweet, earthy, deep cocoa",0,1,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+103,2692,Great Lakes,United States,2021,Madagascar,"Sambirano, Ambanja, batch 11",72.0,3.5,3,"fruity, cocoa, sweet",1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,AF
+104,2692,Great Lakes,United States,2021,Tanzania,"Kokoa Kamili, Kilombero District, batch 11",70.0,3.5,3,"nutty, spicy, candied orange",1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,AF
+105,2692,Great Lakes,United States,2021,Dominican Republic,"Duarte Province, El Cibao, batch 10",75.0,3.5,3,"dried fruit, orange peel, cocoa",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+106,2696,Great Lakes,United States,2021,Vietnam,"Dak Lak, batch 09",73.0,3.5,3,"roasty, sweet, fruity, cocoa",1,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,AS
+107,2696,Green Door,United Kingdom,2021,India,"Idukki Hills, batch 11",70.0,3.0,3,"spicy, vanilla",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,EU,AS
+108,2606,Hecho,Mexico,2021,Mexico,"Soconusco, La Rioja Farm, Chiapas",70.0,3.5,2,"delicate, carame, tang",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+109,2614,Hemisphere,United States,2021,Ecuador,"Esmeraldas, Muisne Estate",70.0,2.75,2,"harsh, earthy, dirty",0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+110,2614,Hemisphere,United States,2021,Nicaragua,"Matagalpa, El Tuma region",70.0,3.25,2,"delicate fruit, black tea",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+111,2498,Kah Kow,United States,2020,Dominican Republic,"Tireo, Rizek Historical Selection, single estate",68.0,3.75,4,"rich cocoa, dried fruit, roasty",1,1,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+112,2498,Kah Kow,United States,2020,Dominican Republic,"La Magdalena, Rizek Historical S., single estate",70.0,3.75,3,"light color, nutty, caramel",1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+113,2502,Kah Kow,United States,2020,Dominican Republic,"West Indian, Rizek Historical S.",67.0,3.75,4,"banana, fall spices, earthy",1,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+114,2708,Kasama,Canada,2021,Philippines,"Davao, Mindanao, batch 24",70.0,3.25,3,"licorice, melon",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,AS
+115,2708,Kasama,Canada,2021,Papua New Guinea,"Karkar Island, Madong, batch 34",70.0,3.5,3,"plum, molasses",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,NA,OC
+116,2562,Letterpress,United States,2021,Sao Tome & Principe,"Satocao, limited ed., batch 2",70.0,3.5,3,"buttery, sunflower, astringent",1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Unknown
+117,2562,Letterpress,United States,2021,United States,"Maui Kuia E., Hawaii, 2018-2019 h., batch 1",70.0,3.75,3,home baked banana nut bread,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+118,2538,Lirio,United States,2020,Sierra Leone,"Gola Rainforest, batch 920",72.0,2.5,2,"grassy, rubbery, chemical",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+119,2538,Lirio,United States,2020,India,"Anamalai, batch 970",72.0,3.0,2,"basic cocoa, dirty/burnt edge",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AS
+120,2538,Lirio,United States,2020,Vietnam,"Tien Giang, batch 970",72.0,3.0,2,"spicy, sweet, cocoa",0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,AS
+121,2590,Loon,United States,2021,Bolivia,Alto Beni,70.0,2.75,3,"sweet, sl. smokiness, fruit",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,SA
+122,2586,Loon,United States,2021,Belize,Maya Mountain,75.0,3.0,3,"cherry, fatty, cocoa",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,NA,NA
+123,2692,Luisa Abram,Brazil,2021,Brazil,Wild Jurua (limited edition for Caputo's),70.0,3.25,3,"mild sweet honey, rum, off",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SA,SA
+124,2518,Luisa's Vegan,United Kingdom,2020,Papua New Guinea,Karkar Island,72.0,3.25,3,"smoke, fruit, ham, fatty",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,EU,OC
+125,2506,Lumineux,United States,2020,India,"Kerala State, GoGround, batch 88",72.0,3.0,3,"deep cocoa, sl. pungent, sandy",1,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,NA,AS
+126,2502,Lumineux,United States,2020,Madagascar,"Bejofo E., Sambirano, batch 115",73.0,3.25,3,"roasted pear, cocoa, sour",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,AF
+127,2502,Lumineux,United States,2020,Tanzania,"Kilombero Valley, batch 74",75.0,3.25,3,"fatty, dominant roast, spice",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,NA,AF
+128,2506,Lumineux,United States,2020,Uganda,"Semuliki Forest, Latitude Trading Co, batch 100",68.0,3.25,3,"candied, sweet cocoa, roasty",1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+129,2506,Lumineux,United States,2020,Ivory Coast,"Cote d'Ivoire, batch 83",67.0,3.5,3,"spice, coconut",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,NA,Unknown
+130,2664,Madhu,United States,2021,Colombia,Tumaco,70.0,2.5,2,"very sticky, nutty, woody",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,SA
+131,2610,Marana,Peru,2021,Peru,"San Martin, Allima coop",80.0,3.25,3,"smoked nuts, tang",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SA,SA
+132,2610,Marana,Peru,2021,Peru,"Piura, Norandino coop, cacao blanco",70.0,3.5,3,"mild orange, herbaceous",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,SA,SA
+133,2598,Maribea,United States,2021,Mexico,Tabasco,72.0,2.75,3,"earthy, musty, sweet",1,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+134,2598,Maribea,United States,2021,Bolivia,"Alto Beni, Walikewa",72.0,2.75,3,"floral, earthy, acidic, harsh",1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,NA,SA
+135,2598,Maribea,United States,2021,Brazil,"Bahia, Catongo",72.0,3.25,3,"delicate, nutty, butterscotch",1,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+136,2704,Maui Kuia,United States,2021,United States,"Kuia Estate, Hawaii, lot 083122",70.0,3.5,3,"sweet, banana, mild sour orange",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+137,2566,Millesime,Belgium,2021,Panama,Bocas del Toro,75.0,2.75,3,"sandy, green, grassy, harsh",1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,EU,NA
+138,2570,Millesime,Belgium,2021,India,Kaithapara,74.0,3.0,3,"unripe fruit, sour, watery",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,EU,AS
+139,2570,Millesime,Belgium,2021,Tanzania,Kilombero Valley,90.0,3.0,3,"sandy, bitter, sour fruit",1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,EU,AF
+140,2648,Moku,United States,2021,Madagascar,"Bejofo, batch 7",70.0,2.75,3,"creamy, off note, rubbery, petro",1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+141,2652,Moku,United States,2021,Dominican Republic,"Zorzal, batch 8",70.0,3.25,3,"dark fruit, slight harsh molasses",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+142,2680,Monarque,Canada,2021,Philippines,"Kablon, lot 07 (made for Etat de Choc)",76.0,3.5,3,"black tea, floral",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,NA,AS
+143,2656,Monsoon,United States,2021,Peru,"Ucayali, batch 9",72.0,3.5,3,"licorice, cocoa",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+144,2542,Monsoon,United States,2021,Ecuador,"Esmeraldas, batch 9",75.0,3.75,2,"intense, floral, cocoa, long lasting",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,NA,SA
+145,2494,Odyssey,United States,2020,Tanzania,Kokoa Kamili,70.0,3.0,2,"sour banana, muted",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,NA,AF
+146,2494,Odyssey,United States,2020,Uganda,Bundibugyo,70.0,3.25,2,"dominant hazelnut, fudge",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+147,2494,Odyssey,United States,2020,India,Idukki Hills,70.0,3.25,2,"intense tart, sourness",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AS
+148,2498,Odyssey,United States,2020,Colombia,Arhuaca,70.0,3.25,2,"walnut, tobacco, grassy",0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+149,2494,Odyssey,United States,2020,Bolivia,"Tranquilidad, Wild",70.0,3.75,2,"silky smooth, cherry, cocoa",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,SA
+150,2498,Odyssey,United States,2020,Vietnam,Ben Tre,70.0,3.75,2,"complex, cranberry, malt, vanilla",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,AS
+151,2582,Odyssey,United States,2021,Blend,"Elegant Asian Blend"", Vietnam, India",100.0,3.0,1,"sharp fruit, intense, sl. Sour",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,Unknown
+152,2704,Odyssey,United States,2021,Venezuela,Chuao,80.0,3.0,2,"berries, burnt, rubbery, off",0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,SA
+153,2582,Odyssey,United States,2021,United States,Hawaii Kona,70.0,3.25,2,"burnt fudge, nutty",0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+154,2696,Odyssey,United States,2021,Peru,Ucayali,70.0,3.25,2,"deep cocoa, cherry, slight ashy",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,SA
+155,2704,Odyssey,United States,2021,Venezuela,Chuao,70.0,3.5,2,"strong start, fruity, acidic",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,NA,SA
+156,2566,Odyssey,United States,2021,Haiti,Pisa,70.0,3.75,2,"blackberry, tang",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+157,2514,Or Dubh,United States,2020,Madagascar,"Sambirano, Northern Ambanja, 2018 Harvest",70.0,3.25,2,"sweet, tart, raisin, sour ending",0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,AF
+158,2518,Or Dubh,United States,2020,Vietnam,"Ben Tre, Mekond Delta, 2018 H.",70.0,3.25,2,"roast dominates, spicy, astringent",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,AS
+159,2518,Or Dubh,United States,2020,Tanzania,"Kokoa Kamili, Kilombero Valley, 2018 H.",70.0,3.5,2,"sweet edge, dried fruit, lemon",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,AF
+160,2680,Orfeve,Switzerland,2021,Colombia,"Tumaco, 2019 Harvest, b. 3/8-2",75.0,2.75,3,"burnt honey, rubbery",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EU,SA
+161,2676,Orfeve,Switzerland,2021,Peru,"San Ignacio, 2020 Harvest, Cajamarca, b. 6/10-1",70.0,3.25,3,"caramel, honey, roasty",1,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EU,SA
+162,2680,Orfeve,Switzerland,2021,Peru,"Piura, Gran Blanco, 2019 Harvest, b. 7/9-2",75.0,3.25,3,"grape, punchy, deep cocoa",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EU,SA
+163,2676,Orfeve,Switzerland,2021,Madagascar,"Bejofo Estate, 2019 Harvest, b. 4/6-2",75.0,3.5,3,"tart, green apple, rich",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,EU,AF
+164,2700,Pierre Marcolini,Belgium,2021,China,"Hainan, lot 218012",72.0,3.5,4,"fruity, rich, grassy",1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,EU,AS
+165,2530,Pollinator,United States,2020,Bolivia,"Tranquilidad, ""Wild Bolivia""",70.0,3.0,3,"sandy, dried fruit, earthy",1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,NA,SA
+166,2530,Pollinator,United States,2020,Dominican Republic,Zorzal Plantation,70.0,3.0,3,"slightly bitter, earthy, fruity",1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+167,2530,Pollinator,United States,2020,Tanzania,Tanzania,70.0,3.25,3,"raisins, grapes, tart",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,AF
+168,2582,Poppy and Peep,United States,2021,Haiti,Haiti,71.0,2.75,3,"sweet, spoiled milk, vegetal",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+169,2582,Poppy and Peep,United States,2021,Guatemala,Guatemala,76.0,3.0,3,tart with woody undertones,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+170,2586,Poppy and Peep,United States,2021,Ghana,Ghana,66.0,3.0,3,"extra sweet, nutty, deep cocoa",1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+171,2538,Potomac,United States,2021,Uganda,"Semuliki Forest, batch 20035",75.0,3.75,2,"light cocoa, dairy, faint cinnamon",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+172,2622,Potomac,United States,2021,Peru,"Ucayali, batch 200105",70.0,3.75,2,"anise, cocoa, dried fruit",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,SA
+173,2506,Qantu,Canada,2020,Peru,"Piura, Gran Blanco, lot 400",70.0,4.0,3,grapes and honey,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+174,2594,Qantu,Canada,2021,Peru,"Chaska, Junin, lot 425",70.0,3.75,3,"bold, fig w/ floral undertone",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,SA
+175,2668,Ranger,United States,2021,Mexico,Soconusco,70.0,3.25,2,"fruit, yogurt, astringent",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+176,2618,Raphio,United States,2021,Ghana,"Suhum Region, ABOCFA, b. IG7720",72.0,3.5,3,"gateway, nutty, rich cocoa",1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+177,2514,Ritual,United States,2020,Madagascar,"Sambirano, 2019 h., batch 7",75.0,3.5,3,"tart fruit, roasty",1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+178,2672,Rozsavolgyi,Hungary,2021,Peru,"Piura, Norandino, Gran Blanco Nativo, b. PB4704",72.0,3.75,3,"blackberry, mild floral",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,EU,SA
+179,2668,Ruket,Italy,2021,Indonesia,"Sumba, lot 02IN",77.0,2.75,2,"mild smoke, tart, spice, harsh",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,EU,AS
+180,2660,Ruket,Italy,2021,Tanzania,Kokoa Kamili. Lot 73T,72.0,3.5,2,"clean, pure cocoa, cherry, gritty",0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,EU,AF
+181,2660,Seahorse,United States,2021,Trinidad and Tobago,Gewan Gangaram,75.0,3.25,2,"sl roasty, woody, melon, spicy",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,NA,NA
+182,2590,Seahorse,United States,2021,Peru,Ucayali,70.0,3.5,2,"orange, fig, cocoa",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,SA
+183,2594,Seahorse,United States,2021,Vietnam,Ben Tre,70.0,3.5,2,blueberry & cocoa dominate,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AS
+184,2660,Seahorse,United States,2021,India,Anamalai,70.0,3.5,2,"sticky, dark berry, roasty edge",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,NA,AS
+185,2652,Sirene,Canada,2021,Mexico,"Soconusco, Rayen Cacao Co-op",73.0,3.0,3,"bland, sour, lacks development",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA
+186,2652,Sirene,Canada,2021,India,"Anamalai, Pollachi City",73.0,3.25,3,"butterscotch, slight burnt note",1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AS
+187,2660,Solstice,United States,2021,Vietnam,"Dak Nong, Lot 103120",70.0,3.5,3,"molasses, raisins, astringent",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,NA,AS
+188,2680,Soma,Canada,2021,Blend,Dream Machine (Mad./Dom.Rep./Ecuador),62.0,3.25,4,"sweet, cocoa, candy like",1,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Unknown
+189,2638,Soma,Canada,2021,Madagascar,"Bejofo, Sambirano V., Akesson, b. 6116-BEJ210324",70.0,3.5,3,"red fruit, peanut butter, cocoa",1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,AF
+190,2638,Soma,Canada,2021,Venezuela,"Guasare, Rosario de Perija, b.4279-GUA201123",70.0,3.5,3,"spice, sour malt, woody",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,NA,SA
+191,2700,Soma,Canada,2021,Vietnam,"Ben Tre, batch BEN210924 8983",70.0,4.0,3,"cinamon, nutmeg, hot cocoa",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,AS
+192,2684,Spinnaker,United States,2021,Belize,"Maya Mountain, Toledo District, batch 12-1",70.0,3.25,2,"strong roast, tart raspberry",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+193,2684,Spinnaker,United States,2021,Madagascar,"Bejofo, Akesson, batch 10-1",70.0,3.5,2,"plum, roasty undertone, sour",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,AF
+194,2684,Spinnaker,United States,2021,Uganda,"Bundibugyo, Semuliki Forest, batch 9-1",70.0,3.5,2,"dairy, cocoa, well balanced",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+195,2634,sweet beans,United States,2021,Honduras,Honduras,72.0,3.0,3,"overly roasty, spicy",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,NA,NA
+196,2634,sweet beans,United States,2021,Peru,Peru,72.0,3.0,3,"earthy, roasty, hammy",1,1,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+197,2634,sweet beans,United States,2021,Uganda,Uganda,77.0,3.5,3,"melon, mocha",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,AF
+198,2634,sweet beans,United States,2021,Trinidad and Tobago,Trinidad,80.0,3.75,3,"herbal, tea, dried fruit",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+199,2566,Taylor Made,United States,2021,Haiti,"Haiti, batch 2020SEP",67.0,2.75,3,"earthy, fatty, gritty",1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,NA,NA
+200,2510,To'ak,Ecuador,2020,Ecuador,"Galapagos, Santa Cruz Island, 2018 h.",75.0,3.25,3,"strong floral, oily, bold, grassy",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,SA,SA
+201,2526,Triangle Roasters,United States,2020,Nicaragua,La Colonia,70.0,3.25,2,"high acidity, toffee, spicy",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,NA,NA
+202,2526,Triangle Roasters,United States,2020,Haiti,Pisa,70.0,3.25,2,"dominating roast, deep cocoa",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+203,2530,Triangle Roasters,United States,2020,Guatemala,Guatemala,70.0,3.75,2,"bright fruit, heavy roast, smooth",0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+204,2664,Triangle Roasters,United States,2021,Philippines,Malah Na Bulong,70.0,3.25,2,"sticky, butterscotch, sl. Hammy",0,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,NA,AS
+205,2578,Videri,United States,2021,Guatemala,Chimelb,75.0,2.75,2,"earthy, harsh, acidic",0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,NA,NA
+206,2578,Videri,United States,2021,Dominican Republic,Zorzal,75.0,3.0,2,"roasty, berry notes",0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+207,2578,Videri,United States,2021,Blend,"""Classic Dark"", Ecuador-Guatemala-Dom. Rep.",70.0,3.5,3,"nutty, grassy, cocoa",1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,Unknown
+208,2578,Videri,United States,2021,Ecuador,Costas Esmeraldas,75.0,3.5,2,floral & fruit,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,SA
+209,2626,White Label aka Mutari,United States,2021,Philippines,"Kablon Farms, b. KP7417211821",74.0,3.5,3,"nutty, roasted cherry, coffee",1,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AS
+210,2626,White Label aka Mutari,United States,2021,Uganda,"Semuliki, 2017-18 h., batch SU72conche22212621",72.0,3.5,3,"nutty, cocoa, yogurt",1,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+211,2622,White Label aka Mutari,United States,2021,Honduras,"La Masica, 2015 harvest, b. LH74HORZConcheV2",74.0,3.75,2,"brownie, nutty, roasty",0,1,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+212,2622,White Label aka Mutari,United States,2021,Trinidad and Tobago,"Garcia Estate, 2019 harvest, b. GT722162021820",72.0,3.75,3,"complex, mild tobacco, nut, fruit",1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+213,2652,Wm,United States,2021,Dominican Republic,Dominican Republic,70.0,3.5,3,"dairy, caramel, brownie, nutty",1,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+214,2656,Woodblock,United States,2021,Tanzania,"Kokoa Kamili, batch 23",70.0,3.0,2,"short, tart, fruit, sweet edge",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,AF
+215,2522,Xocolatl,United States,2020,Tanzania,"Kokoa Kamili, Kilombero Valley, batch 1",73.0,3.25,2,"sandy, earthy, hint of tang",0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,NA,AF
+216,2518,Xocolatl,United States,2020,Peru,"San Martin de Pangoa, batch 46",70.0,3.5,2,"burnt caramel, grapes",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,SA
+217,2522,Xocolatl,United States,2020,Nicaragua,"Matagalpa, batch 57",72.0,3.5,2,"sandy, roasty, fig, late spiciness",0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+218,2618,Zac Squared,United States,2021,Trinidad and Tobago,Rio Claro,70.0,3.25,3,"nutty, fruity, sweet",1,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA
+219,2618,Zac Squared,United States,2021,Vietnam,Ben Tre,70.0,3.5,3,"tart, cherry, cocoa, mild sour",1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,NA,AS
+220,2618,Zac Squared,United States,2021,Dominican Republic,Zorzal,70.0,3.5,3,"sweet, rich, cocoa, fruity",1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,NA,NA
+221,2700,Zacharias,United States,2021,Bolivia,"Tranquilidad, wild Bolivia",70.0,3.0,3,"sweet, tart, sour",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,NA,SA
+222,2490,Odyssey,United States,2020,Guatemala,Cahabon,70.0,3.0,2,"damp woody, leather, cocoa",0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
