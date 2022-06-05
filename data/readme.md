@@ -20,4 +20,9 @@
 
 ## chocolate_train_for_cat.csv
 
-​	Train data cleaned for CatBoost
+​	Training data cleaned for CatBoost
+
+
+## combined_train.csv
+
+​	Cleaned version of training data used for EDA
