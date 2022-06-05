@@ -3,7 +3,7 @@
 
 
 ## Project Overview
-Chocolate popularity over the world never decreases. More and more fancy and novel chocolates are coming to the market. We want to find out what factors affect the rating of certain chocolate and provide chocolate manufactures with this information to help them determine what type of chocolate to produce in the future; we also want to predict chocolate ratings using these features and help consumers to pick their favorite chocolates.
+Chocolate popularity over the world never decreases. More and more fancy and novel chocolates are coming to the market. We want to find out what factors affect the rating of certain chocolate and provide chocolate manufacturers with this information to help them determine what type of chocolate to produce in the future; we also want to predict chocolate ratings using these features and help consumers to pick their favorite chocolates.
 
 
 
@@ -26,7 +26,7 @@ Exploratory data analysis on the newly built features points out that a few feat
 ![Chocolate_Sugar_Rating](https://user-images.githubusercontent.com/32944487/172035363-8d19cbba-47af-42dc-b9ab-20eae1ab18ca.png)
 
 ## Models
-We use regression models to predict the ratings in the test set. The performance metric we use is mean absolute error. It can be understood as how much the prediction rating deviates from the actual rating within a plus or minus range. We built five regression models, which are lasso regression, random forest regression, xgboost regression, lightgbm regression and catboost regression. For the linear regression model, we select features based on the hypothesis testing result and tune the regularization coefficient with a 10-fold cross validation. For the tree based models (except for catboost), we run grid search with 10-fold cross validation on the training set to optimize the hyperparameters. For catboost, we use the built in pool function to encode location and time features, and tune some of the hyperparameters. We achieve 0.30 mean absolute error with a 10-fold cross validation.
+We use regression models to predict the ratings in the test set. The performance metric we use is mean absolute error. It can be understood as how much the prediction rating deviates from the actual rating within a plus or minus range. We build five regression models, which are lasso regression, random forest regression, xgboost regression, lightgbm regression and catboost regression. For the linear regression model, we compare the performance of feature selection with a 10-fold cross validation in two ways - one is based on the hypothesis testing result and the other uses lasso to tune the regularization coefficient. For the tree based models (except for catboost), we run grid search with 10-fold cross validation on the training set to optimize the hyperparameters. For catboost, we use the built in pool function to encode location and time features, and tune some of the hyperparameters. We achieve 0.30 mean absolute error with a 10-fold cross validation.
 
 ![Chocolate_Location_Rating](https://user-images.githubusercontent.com/32944487/172035307-6d363e46-b563-4d93-a3c7-594ed52ad289.png)
 
@@ -41,4 +41,4 @@ We notice that the average rating varies a lot by year. Our models do not handle
 
 
 ## Conclusion
-We find out the important features determining chocolate ratings are: cocoa percentage, fruity taste, creamy tastes, cocoa taste and sandy taste. This information may be useful for chocolate manufactures when creating new products. We also find that chocolates with companies and beans from Africa and Asia tend to have relatively higher ratings compared with those from the other continents, which may be helpful for consumers when choosing what chocolates they would like to purchase. Among the models we experiment, XGBoost has the best performance on the test set. One future direction is to further fine-tune and investigate the XGBoost model to see the robustness of such model on feature selection. 
+We find out the important features determining chocolate ratings are: cocoa percentage, fruity taste, creamy tastes, cocoa taste and sandy taste. This information may be useful for chocolate manufacturers when creating new products. We also find that chocolates with companies and beans from Africa and Asia tend to have relatively higher ratings compared with those from the other continents, which may be helpful for consumers to choose what chocolates to purchase. Among the models we experiment, XGBoost has the best performance on the test set. One future direction is to further fine-tune and investigate the XGBoost model to see the robustness of such model with respect to feature selection. 
